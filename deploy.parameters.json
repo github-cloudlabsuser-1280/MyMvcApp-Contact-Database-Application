@@ -1,1 +1,37 @@
-[]
+[
+    {
+      "id": "/subscriptions/00d9d58e-3ea2-442e-9379-ae2036d3bbf5/resourceGroups/GitHub-Copilot-Challenges/providers/Microsoft.Resources/deployments/Microsoft.Web-WebApp-Portal-ee9c6e5d-9ae0/operations/65974F9B9B82A07E",
+      "operationId": "65974F9B9B82A07E",
+      "properties": {
+        "provisioningOperation": "Read",
+        "provisioningState": "Succeeded",
+        "timestamp": "2024-12-18T10:04:32.1571964Z",
+        "duration": "PT1.3681747S",
+        "trackingId": "ca83d438-91f0-4f8e-bcbf-4161b7c6412d",
+        "statusCode": "OK",
+        "targetResource": {
+          "id": "/subscriptions/00d9d58e-3ea2-442e-9379-ae2036d3bbf5/resourceGroups/GitHub-Copilot-Challenges/providers/microsoft.insights/components/appmvca20241218104",
+          "resourceType": "microsoft.insights/components",
+          "resourceName": "appmvca20241218104",
+          "apiVersion": "2015-05-01"
+        }
+      }
+    },
+    {
+      "id": "/subscriptions/00d9d58e-3ea2-442e-9379-ae2036d3bbf5/resourceGroups/GitHub-Copilot-Challenges/providers/Microsoft.Resources/deployments/Microsoft.Web-WebApp-Portal-ee9c6e5d-9ae0/operations/A89A9024F2E8839B",
+      "operationId": "A89A9024F2E8839B",
+      "properties": {
+        "provisioningOperation": "Create",
+        "provisioningState": "Succeeded",
+        "timestamp": "2024-12-18T10:04:31.9993689Z",
+        "duration": "PT1.2103472S",
+        "trackingId": "1e989da4-71d9-494b-ba6f-4cfcaa0d0076",
+        "statusCode": "OK",
+        "targetResource": {
+          "id": "/subscriptions/00d9d58e-3ea2-442e-9379-ae2036d3bbf5/resourceGroups/GitHub-Copilot-Challenges/providers/microsoft.insights/components/appmvca20241218104",
+          "resourceType": "microsoft.insights/components",
+          "resourceName": "appmvca20241218104"
+        }
+      }
+    }
+  ]
